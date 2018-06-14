@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/walkoutReport-navigate-and-save.iml" filepath="$PROJECT_DIR$/.idea/modules/walkoutReport-navigate-and-save.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/walkoutReport-navigate-and-save_main.iml" filepath="$PROJECT_DIR$/.idea/modules/walkoutReport-navigate-and-save_main.iml" group="walkoutReport-navigate-and-save" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/walkoutReport-navigate-and-save_test.iml" filepath="$PROJECT_DIR$/.idea/modules/walkoutReport-navigate-and-save_test.iml" group="walkoutReport-navigate-and-save" />
+    </modules>
+  </component>
+</project>
